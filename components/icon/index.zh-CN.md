@@ -8,6 +8,8 @@ toc: false
 
 语义化的矢量图形。
 
+安装 [Kitchen Sketch](https://kitchen.alipay.com/) 插件，不但可以使用 Ant Design 官方色板库，还可以管理自己的专属色板哦！
+
 ## 图标的命名规范
 
 我们为每个图标赋予了语义化的命名，命名规则如下:
